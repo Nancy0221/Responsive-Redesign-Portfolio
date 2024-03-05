@@ -128,3 +128,32 @@ h3 {
   justify-content: space-around;
   align-items: center;
 }
+
+.speedSketching {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.finalSkecth {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.lowFi {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.styleGuide {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.menu {
+  display: flex;
+  background-color: #b0c4b1;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-around;
+}
