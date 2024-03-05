@@ -1,0 +1,130 @@
+html {
+  background-color: #f1faee;
+}
+
+.title {
+  text-align: center;
+}
+
+.overview {
+  text-align: center;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.purpose {
+  text-align: center;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.aboutWebPageContent {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.aboutWebPageContent img {
+  width: 500px;
+  height: 250px;
+}
+
+h3 {
+  text-align: center;
+}
+
+.findingProblems {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.uanda {
+  text-align: center;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.dotted-line {
+  border-top: 1px dotted black; /* Adjust color and thickness as needed */
+  width: 100%; /* Adjust width as needed */
+}
+
+.ba3 {
+  display: flex;
+  justify-content: space-around;
+}
+
+.ba4 {
+  display: flex;
+  justify-content: space-around;
+}
+
+.before6 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.after6 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.dp1 {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.dp2 {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.dp3 {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.dp4 {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.dp5 {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.dp6 {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.dp7 {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.dp8 {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.dp9 {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.before7 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.after7 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
